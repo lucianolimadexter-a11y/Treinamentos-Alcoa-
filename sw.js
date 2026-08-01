@@ -1,4 +1,4 @@
-const CACHE_NAME = 'matriz-treinamentos-v17';
+const CACHE_NAME = 'matriz-treinamentos-v18';
 const ASSETS = [
   './index.html',
   './manifest.json',
